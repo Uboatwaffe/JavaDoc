@@ -6,7 +6,9 @@ org.db.reset
 org.db.tables
 org.file.writing
 module:Exceptions
-org.exceptions
+org.exceptions.exceptions
+org.exceptions.file
+org.exceptions.ui
 module:UI
 org.ui
 org.ui.admin
