@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.ui","l":"Answer"},{"p":"org.ui","l":"AoB"},{"p":"calculations","l":"Calculations"},{"p":"org.ui","l":"Distance"},{"p":"org.ui","l":"Info"},{"p":"org.ui","l":"Length"},{"p":"org.ui","l":"Main"},{"p":"org.ui","l":"Speed"},{"p":"org.ui","l":"WrongFormat"}];updateSearchResults();

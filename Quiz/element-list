@@ -1,4 +1,5 @@
 module:Backend
+org.annotation
 org.db.connecting
 org.db.interfaces
 org.db.manage
@@ -18,6 +19,7 @@ org.ui.swing.admin
 org.ui.swing.admin.other.details
 org.ui.swing.admin.other.table
 org.ui.swing.admin.other.tutorial
+org.ui.swing.debuging
 org.ui.swing.exceptions
 org.ui.swing.hq
 org.ui.swing.other
